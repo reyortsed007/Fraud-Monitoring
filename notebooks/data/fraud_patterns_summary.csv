@@ -1,0 +1,6 @@
+Pattern,Orders,Refund Rate,Est Loss (₹),Concentration,Action
+COD High RTO,1127,14.7%,N/A (data gap),"All tiers, mobile heavy",OTP verification for COD > ₹1500
+Electronics Refund Abuse,626,13.6%,"₹5,61,817","Tier2, returning users",Manual review for electronics > ₹8000
+Card Testing,302,12.6%,"₹1,60,290",Web + organic channel,Block after 2 consecutive fails
+New User Promo Abuse,229,10.9%,"₹49,957","New accounts, high risk score",One coupon per device for new users
+Device Sharing (3+ accounts),88,unknown,unknown,Same device_id multiple users,Device fingerprint blocklist

@@ -1,0 +1,6 @@
+Scenario,Amount (₹),Notes
+Current Monthly Loss,251629,Avg over 27 weeks
+Worst Case (30%),5006,Conservative intervention
+Base Case (50%),8343,Expected intervention
+Best Case (70%),11680,Optimal intervention
+Manual Reviews/Month,42,High risk orders to review

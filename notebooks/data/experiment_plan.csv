@@ -1,0 +1,6 @@
+Intervention,Control,Treatment,Primary Metric,Guardrail,Time Window,Success Threshold
+Hold High Risk Orders,Normal fulfillment,Hold signal>=3 for 2hr review,Fraud loss prevented (₹),Conversion rate,4 weeks,10% reduction in refund rate
+OTP for COD > ₹1500,No OTP,OTP confirmation on COD,RTO rate reduction,COD order volume,4 weeks,20% RTO reduction
+Coupon limit by device,No coupon limit,Max 1 coupon per device/30days,Coupon abuse rate,New user conversion,2 weeks,50% reduction in multi-coupon
+Block after 2 payment fails,No block,CAPTCHA after 2 fails,Card testing rate,Payment success rate,2 weeks,30% reduction in fail rate
+Disable COD high RTO pincodes,COD everywhere,Block COD top 20 RTO pincodes,RTO loss (₹),Order cancellation rate,4 weeks,25% RTO reduction

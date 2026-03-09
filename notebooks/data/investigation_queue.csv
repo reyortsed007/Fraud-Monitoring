@@ -1,0 +1,263 @@
+order_id,user_id,risk_band,signal_count,top_risk_reasons,recommended_action,gross_amount,payment_method,city_tier
+O000004057,U001724,High,6.0,High Discount | Cash on Delivery | Late Night Order,Auto-Cancel,1584.68,cod,tier1
+O000000848,U001090,High,5.0,Cash on Delivery | Late Night Order | New User,Auto-Cancel,1084.72,cod,tier1
+O000003524,U000533,High,5.0,Late Night Order | Card Testing | RTO History,Auto-Cancel,11445.26,upi,tier3
+O000000988,U001048,High,5.0,Cash on Delivery | Late Night Order | New User,Auto-Cancel,9307.01,cod,tier1
+O000003000,U001358,High,5.0,Cash on Delivery | Late Night Order | New User,Auto-Cancel,12231.33,cod,tier1
+O000001063,U000753,High,5.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,1111.94,cod,tier2
+O000001604,U000106,High,5.0,Late Night Order | Card Testing | New User,Auto-Cancel,476.13,netbanking,tier2
+O000004225,U001826,High,5.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,907.24,cod,tier2
+O000004378,U000399,High,5.0,Cash on Delivery | Late Night Order | New User,Auto-Cancel,2947.89,cod,tier1
+O000001008,U001122,High,5.0,Cash on Delivery | Late Night Order | New User,Auto-Cancel,1533.35,cod,tier1
+O000004087,U001003,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,16307.61,cod,tier2
+O000004504,U002073,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,7693.41,cod,tier3
+O000004132,U001605,High,4.0,Cash on Delivery | RTO History | Refund History,Auto-Cancel,25351.35,cod,tier2
+O000003937,U001805,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,1341.24,cod,tier2
+O000000357,U003140,High,4.0,Late Night Order | Card Testing | RTO History,Auto-Cancel,189.39,card,tier2
+O000003744,U001493,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,9158.36,cod,tier3
+O000003933,U003099,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,11176.38,cod,tier2
+O000003705,U003169,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,7616.58,cod,tier2
+O000003447,U002574,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,1467.11,cod,tier2
+O000003424,U000247,High,4.0,Cash on Delivery | Late Night Order | New User,Auto-Cancel,5472.51,cod,tier2
+O000003866,U002577,High,4.0,Cash on Delivery | New User | RTO History,Auto-Cancel,3595.73,cod,tier1
+O000000928,U002839,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,1650.72,cod,tier1
+O000004074,U002920,High,4.0,Cash on Delivery | RTO History | Refund History,Auto-Cancel,5331.67,cod,tier2
+O000004071,U000262,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,1741.51,cod,tier2
+O000004032,U002087,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,11395.68,cod,tier2
+O000000581,U000775,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,1740.1,cod,tier2
+O000000363,U002276,High,4.0,Late Night Order | Refund History | Unusual Quantity,Auto-Cancel,47998.94,card,tier2
+O000004104,U001573,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,2454.64,cod,tier1
+O000004554,U001430,High,4.0,Cash on Delivery | Late Night Order | Abnormal Order Value,Auto-Cancel,23442.3,cod,tier2
+O000003276,U000395,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,8436.53,cod,tier2
+O000003285,U001530,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,11369.78,cod,tier1
+O000000726,U002506,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,1681.99,cod,tier2
+O000000750,U001083,High,4.0,High Discount | Cash on Delivery | Late Night Order,Auto-Cancel,2052.32,cod,tier2
+O000000788,U001193,High,4.0,High Discount | Cash on Delivery | New User,Auto-Cancel,2040.3,cod,tier2
+O000000814,U003063,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,7881.05,cod,tier2
+O000000837,U001622,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,3596.24,cod,tier2
+O000002822,U000718,High,4.0,Cash on Delivery | Late Night Order | Refund History,Auto-Cancel,287.66,cod,tier1
+O000002574,U002998,High,4.0,Late Night Order | Card Testing | Unusual Quantity,Auto-Cancel,21917.94,netbanking,tier1
+O000002720,U002098,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,3392.07,cod,tier2
+O000002727,U001298,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,2661.34,cod,tier3
+O000001064,U000441,High,4.0,Cash on Delivery | New User | RTO History,Auto-Cancel,3033.47,cod,tier1
+O000000978,U001438,High,4.0,Cash on Delivery | New User | RTO History,Auto-Cancel,6123.26,cod,tier2
+O000003146,U001989,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,2414.33,cod,tier2
+O000003016,U002507,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,3369.72,cod,tier1
+O000002912,U001023,High,4.0,Cash on Delivery | Late Night Order | Refund History,Auto-Cancel,26384.41,cod,tier1
+O000002115,U000110,High,4.0,Card Testing | RTO History | Refund History,Auto-Cancel,10625.13,netbanking,tier1
+O000002217,U001610,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,361.9,cod,tier2
+O000002302,U000737,High,4.0,Cash on Delivery | Late Night Order | New User,Auto-Cancel,3635.84,cod,tier1
+O000001767,U003062,High,4.0,Cash on Delivery | Late Night Order | New User,Auto-Cancel,3637.17,cod,tier2
+O000001347,U002254,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,5928.94,cod,tier2
+O000001343,U002257,High,4.0,Late Night Order | Card Testing | RTO History,Auto-Cancel,4059.17,netbanking,tier1
+O000001667,U002399,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,14310.0,cod,tier2
+O000001559,U001866,High,4.0,Late Night Order | Card Testing | RTO History,Auto-Cancel,171.38,card,tier2
+O000001148,U001083,High,4.0,Cash on Delivery | RTO History | Refund History,Auto-Cancel,16443.75,cod,tier2
+O000001236,U002435,High,4.0,Late Night Order | Card Testing | RTO History,Auto-Cancel,6208.41,upi,tier1
+O000000023,U002547,High,4.0,Late Night Order | New User | RTO History,Auto-Cancel,1332.85,upi,tier3
+O000001144,U002209,High,4.0,High Discount | Cash on Delivery | Late Night Order,Auto-Cancel,2452.08,cod,tier2
+O000004263,U002424,High,4.0,High Discount | Late Night Order | RTO History,Auto-Cancel,2283.82,card,tier1
+O000004193,U000318,High,4.0,Cash on Delivery | Late Night Order | RTO History,Auto-Cancel,19118.16,cod,tier2
+O000000090,U000125,High,4.0,Cash on Delivery | RTO History | Refund History,Auto-Cancel,1465.58,cod,tier2
+O000000026,U000830,High,4.0,Cash on Delivery | New User | RTO History,Auto-Cancel,731.94,cod,tier2
+O000000039,U000648,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,2166.39,card,tier2
+O000000050,U000152,High,3.0,Cash on Delivery | Late Night Order | RTO History,Hold + Manual Review,14980.38,cod,tier2
+O000000060,U000333,High,3.0,Card Testing | Unusual Quantity | Abnormal Order Value,Hold + Manual Review,27005.57,upi,tier2
+O000000077,U001895,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,10692.97,cod,tier1
+O000000094,U001610,High,3.0,Cash on Delivery | New User | Refund History,Hold + Manual Review,768.27,cod,tier2
+O000000104,U003087,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,9205.43,cod,tier2
+O000000126,U002341,High,3.0,Cash on Delivery | Late Night Order | New User,Hold + Manual Review,6396.44,cod,tier1
+O000000147,U001070,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,2025.74,cod,tier2
+O000000180,U002620,High,3.0,Late Night Order | RTO History | Device Shared 3+ Accounts,Hold + Manual Review,17506.07,upi,tier1
+O000000193,U002436,High,3.0,Cash on Delivery | Late Night Order | New User,Hold + Manual Review,2735.21,cod,tier1
+O000000275,U000927,High,3.0,High Discount | Cash on Delivery | Late Night Order,Hold + Manual Review,2511.2,cod,tier2
+O000000290,U001564,High,3.0,Cash on Delivery | Refund History | Abnormal Order Value,Hold + Manual Review,22212.56,cod,tier2
+O000000297,U002062,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,12260.64,cod,tier1
+O000000303,U001445,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,2175.02,cod,tier2
+O000004173,U000099,High,3.0,Late Night Order | Card Testing | Refund History,Hold + Manual Review,5866.92,card,tier2
+O000004254,U002128,High,3.0,High Discount | Cash on Delivery | Late Night Order,Hold + Manual Review,2274.6,cod,tier2
+O000004267,U002862,High,3.0,Cash on Delivery | New User | RTO History,Hold + Manual Review,2680.82,cod,tier2
+O000004304,U001280,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,4603.36,cod,tier1
+O000004308,U002215,High,3.0,Cash on Delivery | Late Night Order | New User,Hold + Manual Review,2160.52,cod,tier2
+O000004309,U001342,High,3.0,High Discount | Late Night Order | Card Testing,Hold + Manual Review,1560.97,card,tier2
+O000004337,U002173,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,5217.7,cod,tier2
+O000004355,U002808,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,2946.54,cod,tier1
+O000004416,U002734,High,3.0,Cash on Delivery | Late Night Order | Abnormal Order Value,Hold + Manual Review,23045.49,cod,tier1
+O000004438,U003065,High,3.0,High Discount | Late Night Order | Refund History,Hold + Manual Review,1203.84,card,tier1
+O000004461,U000024,High,3.0,Card Testing | RTO History | Refund History,Hold + Manual Review,3899.9,card,tier2
+O000001138,U000660,High,3.0,Cash on Delivery | RTO History | Abnormal Order Value,Hold + Manual Review,26262.02,cod,tier2
+O000001194,U000543,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,10953.66,cod,tier2
+O000001210,U001920,High,3.0,Cash on Delivery | Late Night Order | New User,Hold + Manual Review,1480.89,cod,tier2
+O000001215,U000341,High,3.0,RTO History | Refund History | Device Shared 3+ Accounts,Hold + Manual Review,466.18,upi,tier2
+O000001224,U003171,High,3.0,Late Night Order | Card Testing | New User,Hold + Manual Review,1635.21,upi,tier2
+O000001235,U002090,High,3.0,Cash on Delivery | Late Night Order | Abnormal Order Value,Hold + Manual Review,24253.43,cod,tier3
+O000001263,U001266,High,3.0,Cash on Delivery | Late Night Order | Unusual Quantity,Hold + Manual Review,5182.08,cod,tier1
+O000001298,U002964,High,3.0,Cash on Delivery | Late Night Order | New User,Hold + Manual Review,11374.11,cod,tier2
+O000001335,U003013,High,3.0,Cash on Delivery | Late Night Order | New User,Hold + Manual Review,3245.14,cod,tier1
+O000001396,U002873,High,3.0,Cash on Delivery | Late Night Order | New User,Hold + Manual Review,12974.91,cod,tier1
+O000001398,U000884,High,3.0,Late Night Order | Card Testing | New User,Hold + Manual Review,91.06,card,tier2
+O000001402,U000675,High,3.0,Cash on Delivery | Late Night Order | Abnormal Order Value,Hold + Manual Review,32634.97,cod,tier3
+O000001408,U000438,High,3.0,Cash on Delivery | Refund History | Abnormal Order Value,Hold + Manual Review,23480.19,cod,tier3
+O000001424,U000005,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,9545.49,netbanking,tier2
+O000001427,U001232,High,3.0,RTO History | Refund History | Abnormal Order Value,Hold + Manual Review,23659.74,card,tier2
+O000001450,U002692,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,3103.4,cod,tier1
+O000001456,U001006,High,3.0,Card Testing | RTO History | Refund History,Hold + Manual Review,5536.68,netbanking,tier3
+O000001463,U000644,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,3825.72,cod,tier3
+O000001478,U000531,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,6199.05,cod,tier2
+O000001513,U002904,High,3.0,Late Night Order | Card Testing | New User,Hold + Manual Review,2284.09,card,tier2
+O000001526,U000333,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,1428.39,netbanking,tier2
+O000001543,U003112,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,7624.16,cod,tier2
+O000001549,U002359,High,3.0,Cash on Delivery | Late Night Order | New User,Hold + Manual Review,3552.19,cod,tier1
+O000001600,U001695,High,3.0,Cash on Delivery | Refund History | Abnormal Order Value,Hold + Manual Review,29351.46,cod,tier3
+O000001644,U002026,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,1682.23,cod,tier2
+O000001664,U000389,High,3.0,Late Night Order | Card Testing | Abnormal Order Value,Hold + Manual Review,22278.02,upi,tier1
+O000001677,U002068,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,3706.17,cod,tier1
+O000001680,U001104,High,3.0,Cash on Delivery | Late Night Order | RTO History,Hold + Manual Review,1907.88,cod,tier1
+O000001683,U003018,High,3.0,Late Night Order | Card Testing | New User,Hold + Manual Review,9227.71,wallet,tier2
+O000001766,U002806,High,3.0,Cash on Delivery | Late Night Order | New User,Hold + Manual Review,317.85,cod,tier2
+O000001786,U000971,High,3.0,High Discount | RTO History | Refund History,Hold + Manual Review,626.72,upi,tier3
+O000001810,U001193,High,3.0,Cash on Delivery | Late Night Order | Device Shared 3+ Accounts,Hold + Manual Review,1486.3,cod,tier2
+O000001828,U000439,High,3.0,Cash on Delivery | Late Night Order | Abnormal Order Value,Hold + Manual Review,21726.36,cod,tier2
+O000001885,U000986,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,9871.66,cod,tier1
+O000001900,U002387,High,3.0,New User | RTO History | Refund History,Hold + Manual Review,10384.05,wallet,tier2
+O000001903,U002722,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,7474.79,cod,tier2
+O000001925,U002576,High,3.0,Cash on Delivery | Late Night Order | RTO History,Hold + Manual Review,3633.18,cod,tier1
+O000001936,U001575,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,9845.25,cod,tier2
+O000001946,U001222,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,1408.84,cod,tier2
+O000001949,U001067,High,3.0,Cash on Delivery | Late Night Order | RTO History,Hold + Manual Review,6268.49,cod,tier3
+O000001964,U000841,High,3.0,Cash on Delivery | Late Night Order | Device Shared 3+ Accounts,Hold + Manual Review,2522.99,cod,tier1
+O000001967,U001876,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,243.98,card,tier1
+O000001997,U001480,High,3.0,Late Night Order | Card Testing | Refund History,Hold + Manual Review,9549.63,card,tier1
+O000002006,U000046,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,3157.27,cod,tier2
+O000002017,U002243,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,9569.72,cod,tier2
+O000002022,U001792,High,3.0,Cash on Delivery | Late Night Order | New User,Hold + Manual Review,4665.66,cod,tier2
+O000002041,U000332,High,3.0,Card Testing | RTO History | Refund History,Hold + Manual Review,2640.3,card,tier2
+O000002043,U000118,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,9457.11,cod,tier2
+O000002073,U000719,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,458.0,cod,tier1
+O000002079,U000123,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,5362.2,cod,tier3
+O000002097,U000778,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,1540.92,cod,tier1
+O000002130,U003164,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,1600.0,cod,tier2
+O000002149,U002894,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,4330.84,card,tier3
+O000002160,U000047,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,292.2,wallet,tier3
+O000002165,U001520,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,1260.1,cod,tier2
+O000002188,U000815,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,11094.41,cod,tier2
+O000002216,U002794,High,3.0,Cash on Delivery | Late Night Order | RTO History,Hold + Manual Review,670.64,cod,tier1
+O000002218,U002702,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,1482.64,cod,tier3
+O000002258,U001483,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,736.7,wallet,tier2
+O000002267,U001210,High,3.0,Cash on Delivery | Late Night Order | RTO History,Hold + Manual Review,6831.14,cod,tier2
+O000002360,U000873,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,2741.22,netbanking,tier1
+O000002372,U002409,High,3.0,Late Night Order | Card Testing | Refund History,Hold + Manual Review,6408.91,wallet,tier2
+O000002386,U002504,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,11005.72,cod,tier2
+O000002468,U002300,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,770.46,cod,tier2
+O000002487,U001050,High,3.0,Late Night Order | Card Testing | New User,Hold + Manual Review,1784.24,wallet,tier2
+O000002493,U001428,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,13788.46,cod,tier3
+O000002508,U000657,High,3.0,Cash on Delivery | Late Night Order | Unusual Quantity,Hold + Manual Review,14369.13,cod,tier2
+O000002509,U000717,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,2590.59,upi,tier2
+O000000989,U000008,High,3.0,High Discount | Cash on Delivery | Late Night Order,Hold + Manual Review,998.43,cod,tier3
+O000001005,U000556,High,3.0,Late Night Order | New User | Abnormal Order Value,Hold + Manual Review,27374.52,card,tier2
+O000001032,U000588,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,6599.01,cod,tier2
+O000001048,U000434,High,3.0,New User | RTO History | Refund History,Hold + Manual Review,3134.2,netbanking,tier3
+O000001059,U003187,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,3805.06,netbanking,tier2
+O000001068,U003092,High,3.0,Cash on Delivery | Late Night Order | New User,Hold + Manual Review,5020.24,cod,tier2
+O000001071,U001479,High,3.0,Card Testing | New User | Abnormal Order Value,Hold + Manual Review,22755.48,upi,tier2
+O000001073,U002357,High,3.0,New User | Unusual Quantity | Abnormal Order Value,Hold + Manual Review,55911.97,netbanking,tier2
+O000001114,U001089,High,3.0,Cash on Delivery | Late Night Order | Abnormal Order Value,Hold + Manual Review,22076.99,cod,tier2
+O000001123,U001930,High,3.0,Card Testing | Refund History | Device Shared 3+ Accounts,Hold + Manual Review,9264.48,card,tier3
+O000001124,U000872,High,3.0,Late Night Order | New User | Refund History,Hold + Manual Review,2476.08,wallet,tier2
+O000002532,U002856,High,3.0,Cash on Delivery | New User | Device Shared 3+ Accounts,Hold + Manual Review,1836.98,cod,tier1
+O000002533,U000781,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,2301.79,cod,tier1
+O000002536,U000742,High,3.0,Late Night Order | Card Testing | Refund History,Hold + Manual Review,2311.38,netbanking,tier3
+O000002569,U002089,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,3096.79,cod,tier2
+O000002592,U000553,High,3.0,Cash on Delivery | Refund History | Abnormal Order Value,Hold + Manual Review,22921.04,cod,tier1
+O000002613,U000007,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,519.33,cod,tier2
+O000002618,U001316,High,3.0,Card Testing | Refund History | Device Shared 3+ Accounts,Hold + Manual Review,2262.96,upi,tier2
+O000002619,U001046,High,3.0,Cash on Delivery | Late Night Order | Abnormal Order Value,Hold + Manual Review,22946.9,cod,tier2
+O000002633,U003077,High,3.0,Cash on Delivery | Late Night Order | New User,Hold + Manual Review,4260.52,cod,tier2
+O000002682,U000827,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,1541.16,cod,tier3
+O000002696,U000104,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,4745.99,card,tier1
+O000002711,U002636,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,7694.84,cod,tier1
+O000002775,U001868,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,10404.65,cod,tier2
+O000002794,U000255,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,5262.69,cod,tier2
+O000002811,U001523,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,617.61,cod,tier2
+O000002830,U002730,High,3.0,Cash on Delivery | Late Night Order | RTO History,Hold + Manual Review,10112.07,cod,tier3
+O000002833,U000376,High,3.0,Cash on Delivery | Late Night Order | Abnormal Order Value,Hold + Manual Review,23223.71,cod,tier2
+O000002855,U000072,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,1900.1,cod,tier2
+O000002857,U001482,High,3.0,Cash on Delivery | Late Night Order | Device Shared 3+ Accounts,Hold + Manual Review,651.07,cod,tier2
+O000002860,U002778,High,3.0,Cash on Delivery | Unusual Quantity | Abnormal Order Value,Hold + Manual Review,58010.23,cod,tier1
+O000002866,U000792,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,3776.2,cod,tier2
+O000002889,U003131,High,3.0,Cash on Delivery | RTO History | Device Shared 3+ Accounts,Hold + Manual Review,908.27,cod,tier2
+O000002891,U002920,High,3.0,Cash on Delivery | Late Night Order | Device Shared 3+ Accounts,Hold + Manual Review,10957.71,cod,tier2
+O000002906,U000078,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,12707.18,cod,tier1
+O000002945,U000437,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,7939.21,netbanking,tier3
+O000003005,U001753,High,3.0,High Discount | Late Night Order | Refund History,Hold + Manual Review,964.26,card,tier1
+O000003056,U001417,High,3.0,Cash on Delivery | Late Night Order | RTO History,Hold + Manual Review,335.54,cod,tier2
+O000003064,U001979,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,8409.76,cod,tier3
+O000003075,U002387,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,20329.0,cod,tier2
+O000003082,U000346,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,1972.79,cod,tier1
+O000003104,U002214,High,3.0,Card Testing | RTO History | Refund History,Hold + Manual Review,91.06,upi,tier2
+O000003130,U001924,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,6784.68,cod,tier3
+O000003170,U002755,High,3.0,Cash on Delivery | Late Night Order | New User,Hold + Manual Review,5446.28,cod,tier2
+O000003171,U000290,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,5297.52,cod,tier2
+O000003250,U001361,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,16788.79,cod,tier2
+O000003301,U000510,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,6915.6,cod,tier3
+O000003315,U001530,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,6939.07,netbanking,tier1
+O000003335,U001183,High,3.0,Cash on Delivery | Late Night Order | Abnormal Order Value,Hold + Manual Review,22079.43,cod,tier2
+O000000618,U001928,High,3.0,Late Night Order | New User | Refund History,Hold + Manual Review,5853.48,wallet,tier2
+O000000745,U003162,High,3.0,Cash on Delivery | Late Night Order | RTO History,Hold + Manual Review,2155.7,cod,tier1
+O000000747,U002037,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,2877.88,cod,tier3
+O000000784,U003131,High,3.0,Cash on Delivery | Late Night Order | Device Shared 3+ Accounts,Hold + Manual Review,8208.38,cod,tier2
+O000000829,U001205,High,3.0,Late Night Order | Card Testing | New User,Hold + Manual Review,6142.19,upi,tier2
+O000000872,U000609,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,2514.25,cod,tier3
+O000000922,U002553,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,2110.11,cod,tier2
+O000000965,U001767,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,11241.03,cod,tier2
+O000000977,U003072,High,3.0,Late Night Order | Card Testing | Refund History,Hold + Manual Review,2953.73,card,tier1
+O000003353,U001973,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,7853.72,cod,tier1
+O000003375,U003020,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,805.42,cod,tier2
+O000003442,U001930,High,3.0,RTO History | Refund History | Device Shared 3+ Accounts,Hold + Manual Review,4065.96,card,tier3
+O000003457,U001375,High,3.0,Cash on Delivery | Late Night Order | Device Shared 3+ Accounts,Hold + Manual Review,20916.4,cod,tier2
+O000003518,U002430,High,3.0,Late Night Order | Card Testing | Refund History,Hold + Manual Review,1049.59,card,tier3
+O000003544,U002710,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,1627.42,card,tier2
+O000003558,U000595,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,600.94,netbanking,tier2
+O000003591,U000575,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,2578.9,cod,tier2
+O000003651,U003172,High,3.0,Cash on Delivery | Late Night Order | New User,Hold + Manual Review,1302.14,cod,tier2
+O000003713,U000293,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,6875.92,cod,tier2
+O000003731,U002788,High,3.0,Cash on Delivery | Late Night Order | New User,Hold + Manual Review,6456.92,cod,tier2
+O000003750,U002430,High,3.0,Late Night Order | Card Testing | Refund History,Hold + Manual Review,805.48,card,tier3
+O000003782,U002427,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,11588.94,cod,tier3
+O000003808,U002769,High,3.0,Cash on Delivery | Unusual Quantity | Abnormal Order Value,Hold + Manual Review,41051.82,cod,tier1
+O000003834,U001952,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,14615.44,card,tier2
+O000003858,U001772,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,3805.06,cod,tier2
+O000003873,U003046,High,3.0,Card Testing | RTO History | Refund History,Hold + Manual Review,4462.2,wallet,tier1
+O000003877,U001505,High,3.0,Cash on Delivery | Late Night Order | Abnormal Order Value,Hold + Manual Review,23670.92,cod,tier1
+O000003885,U000713,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,9512.74,cod,tier1
+O000003901,U001156,High,3.0,Late Night Order | Card Testing | New User,Hold + Manual Review,677.44,card,tier1
+O000003925,U001404,High,3.0,Late Night Order | Card Testing | Abnormal Order Value,Hold + Manual Review,23824.58,card,tier1
+O000003931,U002834,High,3.0,Late Night Order | Card Testing | New User,Hold + Manual Review,863.53,upi,tier2
+O000003935,U001079,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,3253.39,cod,tier1
+O000003952,U000671,High,3.0,Cash on Delivery | Late Night Order | Unusual Quantity,Hold + Manual Review,11954.18,cod,tier3
+O000000405,U001866,High,3.0,Late Night Order | Card Testing | New User,Hold + Manual Review,475.05,card,tier2
+O000000485,U000311,High,3.0,Cash on Delivery | RTO History | Abnormal Order Value,Hold + Manual Review,24491.78,cod,tier2
+O000000513,U002293,High,3.0,Late Night Order | Card Testing | Refund History,Hold + Manual Review,9039.4,wallet,tier3
+O000000528,U002186,High,3.0,High Discount | Late Night Order | Card Testing,Hold + Manual Review,2106.96,wallet,tier2
+O000000529,U001768,High,3.0,Cash on Delivery | Late Night Order | RTO History,Hold + Manual Review,8913.01,cod,tier3
+O000000531,U001887,High,3.0,Cash on Delivery | Late Night Order | New User,Hold + Manual Review,2210.71,cod,tier1
+O000000538,U000370,High,3.0,Cash on Delivery | Late Night Order | New User,Hold + Manual Review,1677.12,cod,tier2
+O000000551,U003162,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,1807.94,cod,tier1
+O000000552,U000323,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,9801.01,cod,tier3
+O000000554,U000458,High,3.0,RTO History | Refund History | Abnormal Order Value,Hold + Manual Review,31303.08,upi,tier1
+O000000573,U002503,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,9343.62,card,tier1
+O000000592,U002254,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,9673.62,cod,tier2
+O000000600,U002664,High,3.0,Card Testing | New User | Refund History,Hold + Manual Review,172.55,card,tier2
+O000003961,U000781,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,9872.33,cod,tier1
+O000003994,U002223,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,1745.88,cod,tier3
+O000004019,U003112,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,5980.84,card,tier2
+O000004026,U003179,High,3.0,Cash on Delivery | RTO History | Refund History,Hold + Manual Review,7540.52,cod,tier2
+O000004102,U003112,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,1169.26,upi,tier2
+O000004110,U001467,High,3.0,Late Night Order | RTO History | Refund History,Hold + Manual Review,648.85,upi,tier1
+O000004114,U002983,High,3.0,Late Night Order | Card Testing | New User,Hold + Manual Review,7081.47,card,tier1
+O000004148,U003077,High,3.0,Cash on Delivery | Late Night Order | Refund History,Hold + Manual Review,12201.05,cod,tier2
+O000004172,U002796,High,3.0,Cash on Delivery | Late Night Order | RTO History,Hold + Manual Review,1260.1,cod,tier1
+O000004516,U001295,High,3.0,Late Night Order | Card Testing | Abnormal Order Value,Hold + Manual Review,22083.2,card,tier2
+O000000021,U000691,High,3.0,Late Night Order | Card Testing | New User,Hold + Manual Review,5497.89,card,tier3
+O000004619,U000110,High,3.0,Card Testing | RTO History | Refund History,Hold + Manual Review,2372.82,card,tier1
+O000004018,U000195,High,3.0,Late Night Order | Refund History | Device Shared 3+ Accounts,Hold + Manual Review,9695.37,card,tier2
