@@ -210,6 +210,9 @@ File: `Fraud_Monitoring_Dashboard.pbix`
 | Investigation Queue | Filterable table + 3 slicers (risk/city/payment) |
 | Controls & Impact | Scenario chart + experiment plan table |
 
+The below link has the PowerBI analytics
+https://drive.google.com/file/d/1PThdUc2VvpiqCk_jb1COVSbv8aJCIkYt/view?usp=sharing
+
 ---
 
 ## ❓ Stakeholder Questions Answered
